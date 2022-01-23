@@ -1,0 +1,137 @@
+/* Fonts */
+
+h1 {
+    font-size: 39px;
+    font-weight: 700;
+    line-height: 3.5rem;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    line-height: 3.2rem;
+}
+
+/* Navbar */
+
+/* Quote Section */
+
+.quote-section {
+    margin: 0px 40px;
+    padding: 75px 0px 75px 0px;
+}
+
+.quote-section h2 {
+    margin-bottom: 0px;
+}
+
+/* Services Section */
+
+.services-section-content-top {
+    text-align: center;
+    padding: 75px 40px 35px 40px;
+}
+
+.services-section-content {
+    flex-direction: column;
+}
+
+/* About Us Section */
+
+.about-us-section {
+    margin-top: 35px;
+    flex-direction: column;
+}
+
+.about-us-img {
+    width: 100%;
+}
+
+.about-us-content {
+    width: 100%;
+    padding: 75px 40px;
+}
+
+.about-us-content p {
+    max-width: none;
+
+}
+
+/* Blog Section */
+
+.blog-section {
+    flex-direction: column;
+}
+
+.blog-img {
+    width: 100%;
+}
+
+.blog-content {
+    width: 100%;
+    align-items: flex-start;
+    padding: 75px 40px;
+}
+
+.blog-content-text {
+    max-width: none;
+}
+
+/* Work Section */
+
+.work-section-header {
+    padding-top: 75px; 
+}
+
+.work-section-row-1, .work-section-row-2 {
+    flex-direction: column;
+    margin: 0px
+}
+
+.work-section-item {
+    padding: 0px;
+    margin: 0px 40px 40px 40px;  
+}
+
+.work-section-row-2:last-child {
+    margin-bottom: 20px;  
+}
+/* Team Section */
+
+.team-section-header {
+    padding-top: 75px;
+}
+
+.team-section-row-1, .team-section-row-2 {
+    flex-direction: column;
+    margin: 0px;
+}
+
+.team-section-item {
+    margin: 0px 40px 75px 40px;
+}
+
+/* Grow Section */
+
+.grow-section {
+    padding: 75px 40px;
+}
+
+/* Contact Us Section */
+
+.contact-us-section  {
+    padding: 75px 40px;
+    flex-direction: column;
+}
+
+.form-section {
+    padding-right: 0px;
+    border-right: none;
+    margin-bottom: 75px;
+}
+
+.contact-us-content {
+    padding-left: 0px;
+    padding-right: 0px;
+}
